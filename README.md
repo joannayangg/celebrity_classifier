@@ -1,5 +1,6 @@
-# celebrity_classifier
-Upload a photo, see which east asian celebrity you look most similar to!
+# Asian Celebrity Classifier!
+**Upload a photo, see which east asian celebrity you look most similar to!**
+
 As a kid, I was obsessed with those data science driven "which celebrity are you?" quizzes. However, as an Asian American kid, I was simply always matched with the one or two Asian actresses included in the dataset, or a white actress with dark hair, out of hundreds of other actresses and actors. This is a passion project to rectify that experience to the kid in me :)
 
 Welcome to the "What celebrity are you?", East Asian edition! I pulled 10 of the A100 Honorees (100 Asian Pacific Leaders who made the greatest impact on culture and society over the past year, read more here.). This will take an image of yourself, and return which of the 10 figures you look most similar to (in a ML Model's eyes)!
